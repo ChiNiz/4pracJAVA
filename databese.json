@@ -1,0 +1,55 @@
+{
+ "autors": [
+	{
+		"id": 0,
+		"first_name": "Oleg",
+		"last_name": "Ivanov"
+	},
+	{
+		"id": 1,
+		"first_name": "Micha",
+		"last_name": "Volodin"
+	},
+	{
+		"id": 2,
+		"first_name": "Vitalik",
+		"last_name": "Moskitov"
+	}
+	]
+
+ "books": [
+	{
+		"b_id": 0,
+		"name": "Stat' IP"
+	}, 
+	{
+		"b_id": 1,
+		"name": "Gaid po vijivaniyu"
+	}, 
+	{
+		"b_id": 2,
+		"name": "A kak jit'?"
+	} 
+	]
+
+
+ "location": [
+	{
+		"location": "Yl.Jykova 5"
+	}, 
+	{
+		"location": "Yl.Karbesheva 3"
+	}, 
+	{
+		"location": "Yl. Talka 8" 
+	} 
+	]
+
+}
+
+
+  
+
+
+ 
+
